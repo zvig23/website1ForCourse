@@ -1,0 +1,77 @@
+#menu
+{
+	width: 100%;
+	position: fixed;
+	align-items: center;
+	list-style-type: armenian;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:rgba(29, 28, 28, 0.473);
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+#about
+{
+	width: 100%;
+	background: #875106;
+	color: grey
+}
+#photos
+{
+	width: 100%;
+	background: #875166;
+	color: green
+}
+#playlist
+{
+	width: 100%;
+	background: green;
+	color: white;
+}
+#like
+{
+	width: 100%;
+	background: pink;
+	color: white;
+}
+#qrcoder
+{
+	width: 100%;
+	background: purple;
+	color: white;
+}
+#contact
+{
+	width: 100%;
+	background: yellow;
+	color: red;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif
+}
+
+body, textarea, input {
+	font-family: Verdana, Geneva, sans-serif;
+}
+section
+{
+	text-align: center;
+}
