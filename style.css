@@ -8,6 +8,7 @@
 	padding: 0;
 	overflow: hidden;
 	background-color:rgba(29, 28, 28, 0.473);
+	display: inline-flex;
 }
 /* unvisited link */
 a:link {
@@ -64,9 +65,7 @@ a:active {
 	background: yellow;
 	color: red;
 }
-p {
-	font-family: Arial, Helvetica, sans-serif
-}
+
 
 body, textarea, input {
 	font-family: Verdana, Geneva, sans-serif;
